@@ -148,7 +148,7 @@
       
       #content-left{
         width:65%;
-        height:750px;      
+        height:780px;      
         margin: 0px;
         padding: 0px;
         margin-right:15px;
